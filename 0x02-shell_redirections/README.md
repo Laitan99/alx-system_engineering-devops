@@ -1,1 +1,1 @@
-task 0. Hello World
+Write a script that prints hello world followed by a new line to the standard output
