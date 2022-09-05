@@ -1,1 +1,1 @@
-task 0-hello_world
+task 0. Hello World
