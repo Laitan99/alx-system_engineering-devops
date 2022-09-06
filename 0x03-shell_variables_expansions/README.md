@@ -1,1 +1,1 @@
-task 0. <0>
+create a script that create an alias
